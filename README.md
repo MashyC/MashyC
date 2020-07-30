@@ -1,7 +1,4 @@
-# MASHRUR CHOWDHRY&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
-![](https://visitor-badge.glitch.me/badge?page_id=RohanTrix.RohanTrix) ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
----
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959749500-RJQG5QR19TW5SFIY5PJC/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxq_kr5JmUSWzdbeQhVZ8KGVEAfgr0ybhloMHNIqvT8SMftTfHgE5YY4gbHxAHibYY/crossy.gif" width="1000px" height="1000px" />
+<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959749500-RJQG5QR19TW5SFIY5PJC/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxq_kr5JmUSWzdbeQhVZ8KGVEAfgr0ybhloMHNIqvT8SMftTfHgE5YY4gbHxAHibYY/crossy.gif" width="1500px" height="1000px" />
 
 
 **About Me:**
