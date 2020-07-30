@@ -8,6 +8,7 @@ Hi, I am Computer Science student at Vellore Institute of Technology exploring D
 ---
 
 **About Me:**
+<div style="background-color: blue"><p>Hello world</p></div>
 
 - 👨‍💻 I’m currently working on AI for Trading
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Code and memes are my thing; 
