@@ -1,14 +1,27 @@
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959749500-RJQG5QR19TW5SFIY5PJC/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxq_kr5JmUSWzdbeQhVZ8KGVEAfgr0ybhloMHNIqvT8SMftTfHgE5YY4gbHxAHibYY/crossy.gif" width="1000px" height="550px" />
+# Mashrur Chowdhury&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
+---
+<img align="right" alt="GIF" src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="300px" height="300px" />
+Hi, I am Computer Science student at the University of Waterloo exploring Data Science and Machine Learning. I am passionate about coding and the development of Artificial Intelligence. I also enjoy full-stack development, and developing mobile applications.
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+<code><img height="30" src="https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"> </code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+
+---
 
 **About Me:**
-<div style="background-color: blue"><p>Hello world</p></div>
 
 - 👨‍💻 I’m currently working on AI for Trading
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> Code and memes are my thing; 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">I’m looking to collaborate on a Time Series Analysis research 🤝
 - <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30px" height="30px"> Currently working on a Data Analysis Template
-- 📫 How to reach me: rohanyeahyeah@gmail.com;
+- 📫 How to reach me: mashrurc02@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
 
 
