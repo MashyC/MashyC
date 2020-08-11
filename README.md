@@ -1,6 +1,6 @@
 # Mashrur Chowdhury&nbsp;<img src="https://s7.gifyu.com/images/giphyd453822f10cd1ba6.gif" width="30px"> 
 ---
-Hi, I am Computer Science student at the University of Waterloo exploring Data Science and Machine Learning. I am passionate about coding and the development of Artificial Intelligence. I also enjoy full-stack development, and developing mobile applications.
+Hi, I am a Computer Science student at the University of Waterloo exploring Data Science and Machine Learning. I am passionate about coding and the development of Artificial Intelligence. I also enjoy full-stack development, and developing mobile applications.
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
