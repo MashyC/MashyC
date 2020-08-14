@@ -18,9 +18,6 @@ Hi, I am a Computer Science student at the University of Waterloo exploring Data
 
 I'm really passionate about AI and Machine Learning and making advancements in this industry. Currently, my team (<a href="https://github.com/dobham">Mahbod Sabbahi</a> and <a href="https://github.com/miphc42">Philip Choi</a>) and I have been developing an app that tracks your Carbon Emission output daily with revolutionary tracking and offseting options. With this project, we won SET.Hacks() and plan to further our work. Take a look through my GitHub for some of the projects that I've been working on!
 
-Attached is my resume, and below are various ways to contact me:
-📝[Resume](https://drive.google.com/file/d/17iVaL2ACm8TxjsRJPrcJczY32utRKhFF/view?usp=sharing)
-
 ![](https://github-readme-stats.vercel.app/api?username=MashyC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ## Get in touch:
